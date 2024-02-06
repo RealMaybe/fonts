@@ -1,0 +1,9 @@
+# folder
+node_modules/
+.vscode/
+test/
+framework/
+libraries/
+
+# file
+test.*
